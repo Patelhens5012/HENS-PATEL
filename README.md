@@ -1,8 +1,8 @@
 # HENS-PATEL
 All About Me...
-👋 Hi there! I'm [Your Name], a passionate student with a keen interest in DevOps and cloud computing. Welcome to my GitHub profile!
+👋 Hi there! I'm Hens Patel, a passionate student with a keen interest in DevOps and cloud computing. Welcome to my GitHub profile!
 
-🎓 Currently pursuing my [Degree/Major] at [University/Institution], I am actively exploring various aspects of the DevOps culture and cloud technologies. I am fascinated by the intersection of software development, system administration, and infrastructure automation.
+🎓 Currently pursuing my Bachelor at Charusat University, I am actively exploring various aspects of the DevOps culture and cloud technologies. I am fascinated by the intersection of software development, system administration, and infrastructure automation.
 
 💡 My GitHub repositories reflect my journey as I dive deeper into the world of DevOps. You'll find projects related to CI/CD pipelines, infrastructure-as-code, containerization, and cloud platforms like AWS, Azure, and Google Cloud.
 
@@ -14,6 +14,6 @@ All About Me...
 
 ✨ I'm open to collaboration and actively seeking opportunities to contribute to open-source projects in the DevOps and cloud computing space. Feel free to reach out to me if you have any interesting projects or ideas you'd like to discuss.
 
-📫 You can connect with me on LinkedIn [insert LinkedIn profile URL] to explore potential collaborations or simply have a chat about all things DevOps and cloud!
+📫 You can connect with me on LinkedIn to explore potential collaborations or simply have a chat about all things DevOps and cloud!
 
 Thank you for visiting my GitHub profile. Let's automate and transform the world together! 😄🚀
